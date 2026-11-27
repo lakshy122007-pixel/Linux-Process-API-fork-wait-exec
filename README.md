@@ -53,7 +53,7 @@ int main()
 }
 
 ```
-##OUTPUT
+## OUTPUT
 
 ```
 Parent Process
@@ -96,7 +96,7 @@ int main()
 }
 
 ```
-##OUTPUT
+## OUTPUT
 
 ```
 Child process executing command
